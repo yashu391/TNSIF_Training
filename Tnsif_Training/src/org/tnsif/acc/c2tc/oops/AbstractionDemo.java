@@ -48,4 +48,4 @@ class Ramesh  extends Suresh  //2026
 		System.out.println("Phone is integrated with healthMonitoring");	
 	}
 	
-}
+}	
