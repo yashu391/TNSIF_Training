@@ -6,6 +6,8 @@
 		public abstract void turnOn();
 		public abstract  void turnOff();
 		public abstract  void getStatus();
+		public @interface Functinal {
+		}
 		
 		
 		
