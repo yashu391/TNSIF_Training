@@ -1,4 +1,4 @@
-package org.tnsif.acce.c2tc.java;
+package org.tnsif.acc.c2tc.java;
 
 public class helloworld {
 
